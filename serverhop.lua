@@ -1,4 +1,4 @@
-if not Chests then getgenv().Chests = {'Legendary', 'Epic', 'Gold', 'Silver', 'Wood'}
+if not Chests then getgenv().Chests = {'Legendary', 'Epic', 'Gold', 'Silver', 'Wood'} end
 
   
   
