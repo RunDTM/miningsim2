@@ -1,4 +1,4 @@
--- Release!
+-- First update!
 
 local a,b,c --yes abc lol
 
